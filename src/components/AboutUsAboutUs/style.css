@@ -1,0 +1,11 @@
+.about-us-about-us {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.about-us-about-us .span-nav-text {
+  flex: 0 0 auto;
+  position: relative;
+}

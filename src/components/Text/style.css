@@ -1,0 +1,108 @@
+.text {
+  height: 72px;
+  overflow: hidden;
+  position: relative;
+  width: 658px;
+}
+
+.text .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 72px;
+  left: 0;
+  letter-spacing: 1.2px;
+  line-height: 72px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.text .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 33px;
+  left: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.text .THINKING {
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  line-height: 72px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text .span {
+  color: #0084ff;
+}
+
+.text .text-wrapper-2 {
+  color: #ffffff;
+}
+
+.text .DOING {
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  line-height: 72px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text .DEVELOPING {
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  line-height: 72px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text .frame-10 {
+  color: #0084ff;
+}
+
+.text .frame-8 {
+  color: transparent;
+}
+
+.text .frame-9 {
+  color: #0084ff;
+}
+
+.text .property-1-frame-10 {
+  color: #0084ff;
+}
+
+.text .property-1-frame-8 {
+  color: #0084ff;
+}
+
+.text .property-1-frame-9 {
+  color: transparent;
+}
+
+.text .property-1-0-frame-10 {
+  color: transparent;
+}
+
+.text .property-1-0-frame-8 {
+  color: #0084ff;
+}
+
+.text .property-1-0-frame-9 {
+  color: #0084ff;
+}

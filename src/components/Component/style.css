@@ -1,0 +1,43 @@
+.component {
+  height: 56px;
+  width: 202px;
+}
+
+.component .contact-us {
+  align-items: center;
+  background-color: #0084ff;
+  border-radius: 32px;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+  width: 202px;
+}
+
+.component .contact-us-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component .vector {
+  height: 16px;
+  position: relative;
+  width: 17px;
+}
+
+.component .group-20 {
+  gap: 12px;
+}
+
+.component .contact-us.group-19 .vector {
+  margin-left: -21344px;
+  margin-top: -7647px;
+}

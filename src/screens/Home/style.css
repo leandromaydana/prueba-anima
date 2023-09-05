@@ -1,0 +1,353 @@
+.home {
+  background-color: #1d1d20;
+  height: 1080px;
+  width: 1920px;
+}
+
+.home .overlap {
+  height: 1080px;
+  position: relative;
+}
+
+.home .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home .overlap-2 {
+  height: 1002px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1123px;
+}
+
+.home .ellipse {
+  background-color: #0084ff;
+  border-radius: 334px;
+  filter: blur(600px);
+  height: 668px;
+  left: 0;
+  position: absolute;
+  top: 334px;
+  width: 668px;
+}
+
+.home .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 275px;
+  position: absolute;
+  top: 596px;
+}
+
+.home .en-codesigners-tu {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  line-height: 30px;
+  position: relative;
+  width: 848px;
+}
+
+.home .img {
+  height: 366px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.home .image {
+  height: 333px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 342px;
+}
+
+.home .group {
+  left: 98px;
+  opacity: 0;
+  position: absolute;
+  top: 272px;
+}
+
+.home .group-2 {
+  height: 689px;
+  position: relative;
+  width: 996px;
+}
+
+.home .lorem-ipsum-dolor {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 291px;
+  left: 0;
+  letter-spacing: 1.2px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 994px;
+}
+
+.home .rectangle {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 188px;
+  left: 1px;
+  position: absolute;
+  top: 294px;
+  width: 507px;
+}
+
+.home .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 188px;
+  left: 526px;
+  position: absolute;
+  top: 294px;
+  width: 422px;
+}
+
+.home .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 188px;
+  left: 1px;
+  position: absolute;
+  top: 501px;
+  width: 947px;
+}
+
+.home .overlap-3 {
+  height: 278px;
+  left: 75px;
+  position: absolute;
+  top: 802px;
+  width: 1845px;
+}
+
+.home .vector-2 {
+  height: 278px;
+  left: 1323px;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.home .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 235px;
+  width: 1359px;
+}
+
+.home .group-3 {
+  height: 53px;
+  left: 801px;
+  position: absolute;
+  top: 72px;
+  width: 320px;
+}
+
+.home .recurso {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.home .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Integral CF-Regular", Helvetica;
+  font-size: 33.9px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+}
+
+.home .group-4 {
+  height: 30px;
+  left: 75px;
+  position: absolute;
+  top: 1042px;
+  width: 25px;
+}
+
+.home .text-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 30px;
+  left: 23px;
+  letter-spacing: 1.2px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .material-symbols {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 18px;
+}
+
+.home .overlap-4 {
+  height: 160px;
+  left: 1402px;
+  position: absolute;
+  top: 380px;
+  width: 202px;
+}
+
+.home .frame-3 {
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.home .overlap-group-2 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+
+.home .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home .frame-4 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.home .overlap-5 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 156px;
+}
+
+.home .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.home .span-nav-indicator-3 {
+  background-color: #ffffff;
+  height: 1px;
+  position: relative;
+  width: 32px;
+}
+
+.home .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .our-services-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.home .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+}
+
+.home .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+}
+
+.home .span-nav-indicator-4 {
+  background-color: #007aff;
+  height: 1px;
+  position: relative;
+  width: 50px;
+}
+
+.home .about-us-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0.84px 0px 0px;
+  position: relative;
+}
+
+.home .about-us {
+  color: #007aff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home .component-26 {
+  left: 1394px !important;
+  position: absolute !important;
+  top: 581px !important;
+}
+
+.home .component-instance {
+  margin-left: -20513px !important;
+  margin-top: -7710px !important;
+}

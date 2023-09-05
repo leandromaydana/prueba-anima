@@ -1,0 +1,34 @@
+.our-services {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.our-services .span-nav-indicator-2 {
+  background-color: #ffffff;
+  height: 1px;
+  position: relative;
+  width: 32px;
+}
+
+.our-services .our-services-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0.84px 0px 0px;
+  position: relative;
+}
+
+.our-services .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
